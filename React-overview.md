@@ -1,16 +1,16 @@
 # React Overview
 
-* Official docs: [https://react.dev/reference/react]
+* Official docs: [https://react.dev/reference/react](https://react.dev/reference/react)
 
 React is a javascript/typescript framework that makes it easier to create dynamic sites with more maintainable code structure.
 It breaks things down into functions!
 
 Examples of how easy frameworks make it:
 
-No framework, lots of javascript: https://davidk003.github.io/CAT3-Final/
-* https://github.com/davidk003/CAT3-Final
+Example of No framework, lots of javascript: [https://davidk003.github.io/CAT3-Final/](https://davidk003.github.io/CAT3-Final/)
+* [https://github.com/davidk003/CAT3-Final](https://github.com/davidk003/CAT3-Final)
 vs Framework:
-https://prototype-translation-glaser-frontend.vercel.app/
+[https://prototype-translation-glaser-frontend.vercel.app/](https://prototype-translation-glaser-frontend.vercel.app/)
 
 
 Common code structure looks like:
@@ -52,9 +52,11 @@ const Counter = () => {
 
 export default Counter;
 ```
-
+<!--
 Rather than write more Ill just show an example (albeit not a great one)
 
 https://davidk-lol-vite-react.vercel.app/
 
 https://github.com/davidk003/davidk.lol-vite-react
+-->
+
