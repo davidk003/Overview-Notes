@@ -2,19 +2,19 @@
 HTML is a markup language first and foremost. It is not "code" in the traditional sense because there are no 
 
 References for HTML and CSS:
-* For official docs: https://developer.mozilla.org/en-US/docs/Web/HTML
-* For quick, less dense, straight to example: https://www.w3schools.com/html/default.asp
+* For official docs: [https://developer.mozilla.org/en-US/docs/Web/HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* For quick, less dense, straight to example: [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
 
 HTML is made up of tags, CSS styles the tags. Each element/tag has its own properties and attributes that make up how the internal data of an element is determined.
 
 I'll mix up properties and attributes sometimes even though theyre technically not the same but just know what I'm talking about:
-https://stackoverflow.com/questions/6003819/what-is-the-difference-between-properties-and-attributes-in-html (2nd Answer)
+[https://stackoverflow.com/questions/6003819/what-is-the-difference-between-properties-and-attributes-in-html](https://stackoverflow.com/questions/6003819/what-is-the-difference-between-properties-and-attributes-in-html) (Check 2nd Answer)
 
 
 Bare HTML leads to sites like:
-* https://www.berkshirehathaway.com/
-* https://danluu.com/
-* https://nocss.club/
+* [https://www.berkshirehathaway.com/](https://www.berkshirehathaway.com/)
+* [https://danluu.com/](https://danluu.com/)
+* [https://nocss.club/](https://nocss.club/)
 
 # HTML Tags Rundown
 
@@ -53,6 +53,7 @@ The `<a>` tag defines a hyperlink, which is used to link from one page to anothe
 <a href="https://www.example.com">Visit Example.com</a>
 
 ## Image Tag
+Note that you can edit the height and width properties of the image tag, and the src property determines the image.
 
 ```html
 <img src="https://images.ctfassets.net/hrltx12pl8hq/28ECAQiPJZ78hxatLTa7Ts/2f695d869736ae3b0de3e56ceaca3958/free-nature-images.jpg" alt="Placeholder Image">
@@ -182,7 +183,7 @@ Each html tag/element has its own default style, but you can modify it with CSS.
 
 ## CSS selectors
 For reference:
-https://www.w3schools.com/cssref/css_selectors.php
+[https://www.w3schools.com/cssref/css_selectors.php](https://www.w3schools.com/cssref/css_selectors.php)
 
 In general you use the tag name like `a` for all tags,  `.` prefix for classnames, `#` for ids, and `[attribute name]` for attributes.
 `*` is a wildcard for ALL (common in programming languages), and note these selectors can be chained.
@@ -196,9 +197,8 @@ p {
 
 ```
  
-# Reading HTML
-https://frontendmasters.com/
-
+# Readable HTML
+[https://frontendmasters.com/](https://frontendmasters.com/)
 # Now just one more thing to make it perfect...
 Sites with only HTML and CSS can exist, however the modern web makes javascript nearly unavoidable.
 
@@ -214,4 +214,4 @@ In fact you dont need to know how to code to make a servicable somewhat customiz
 You can use templates with frameworks like astro to create a blog in as little as one minute if you know which deployment tools to use!
 
 Ex: A clean blog template I tested out to see how easy it would be 
-* https://astro-paper-blog-drab.vercel.app/
+* [https://astro-paper-blog-drab.vercel.app/](https://astro-paper-blog-drab.vercel.app/)
