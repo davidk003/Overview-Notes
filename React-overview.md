@@ -1,6 +1,6 @@
 # React Overview
 
-* Official docs: https://react.dev/reference/react
+* Official docs: [https://react.dev/reference/react]
 
 React is a javascript/typescript framework that makes it easier to create dynamic sites with more maintainable code structure.
 It breaks things down into functions!
