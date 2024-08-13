@@ -1,8 +1,8 @@
 # Javascript
 
 ## DOM access with javascript
-* https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-* https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API
+* [https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API)
 
 ``` html
 <p id="demo">This is the original text.</p>
@@ -108,14 +108,14 @@ Each route should have a page.js file or similar, each page per route is unique.
 
 Layouts are page elements that stay constant inbetween pages that share common routes.
 
-https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts
+[https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts)
 
 All based on folder structure IN PROJECT:
 
-https://nextjs.org/docs/app/building-your-application/routing
+[https://nextjs.org/docs/app/building-your-application/routing](https://nextjs.org/docs/app/building-your-application/routing)
 
 ## Fetching
 An extension of javascript fetches.
 
-https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating
+[https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating](https://nextjs.org/docs/app/building-your-application/data-fetching/fetching-caching-and-revalidating)
 
