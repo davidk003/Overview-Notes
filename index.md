@@ -19,3 +19,5 @@
 
 [Object Oriented Programming](/OOP.md)
 
+[Debugging](/debugging.md)
+
